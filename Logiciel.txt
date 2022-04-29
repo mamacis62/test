@@ -1,0 +1,4 @@
+PuTTy https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+VMware https://www.vmware.com/fr/products/workstation-pro/workstation-pro-evaluation.html
+Debian https://www.debian.org/download
+Wireshark https://www.wireshark.org/download.html
